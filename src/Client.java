@@ -99,7 +99,7 @@ class Graphics {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(900, 500);
         frame.setLayout(null);
-        //frame.setVisible(true);
+        frame.setVisible(true);
 
     }
 }
